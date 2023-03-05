@@ -1,0 +1,23 @@
+[
+    { 
+    "id": 1,
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://tutkatamka.com.ua/wp-content/uploads/2018/02/1-74.jpg" 
+    },
+    { 
+    "id": 2,
+    "user": "Oliver John Cooper",
+    "tweets": 951,
+    "followers": 100510,
+    "avatar": "https://tutkatamka.com.ua/wp-content/uploads/2018/02/3-70.jpg" 
+    },
+    { 
+    "id": 3,
+    "user": "Jackson Robert Scott",
+    "tweets": 451,
+    "followers": 100267,
+    "avatar": "https://tutkatamka.com.ua/wp-content/uploads/2018/02/5-64.jpg" 
+    }
+]
