@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import css from "./CardItem.module.css";
 import Logo from "images/Logo.svg";
 import bgIcons from "images/bg-icons.png";
